@@ -1,0 +1,13 @@
+{
+  "groups": [
+    "sysadmin"
+  ],
+  "comment": "Test User Name",
+  "password": "$1$J/lDR9NX$EUeHQXsHNHMWdjV8nbSyf1",
+  "ssh_keys": [
+    "your ssh-rsa key here"
+  ],
+  "id": "testuser",
+  "shell": "/bin/bash",
+  "email": "testuser@testdomain.com"
+}
